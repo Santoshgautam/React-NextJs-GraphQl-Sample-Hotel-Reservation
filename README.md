@@ -1,9 +1,7 @@
-/* 
-
 
 This application help you to find all available hotels and help to book hotels and check your reservation
 
-This is Backend code in express apollo grapqhl .  It supports both Restful APis as well as Graphql Apis
+This is Backend code in express apollo grapqhl .  It supports both Restful APis as well as Graphql Apis. 
 
 
 # Steps to setup app
